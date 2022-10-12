@@ -1,0 +1,37 @@
+
+.btn1 {
+    
+    font-weight: bold;
+    color:rgb(19, 169, 114) ;
+    background-color:rgba(47, 182, 133, 0.095);
+    margin-top: 30px;
+    margin-left: 30px;
+    border: 2px solid rgb(105, 187, 157);
+    padding: 5px 40px;
+    border-radius: 20px;
+    display: block;
+}
+.btn2
+{   font-size: 18px;
+    font-weight: bold;
+    color:white ;
+    background-color:rgba(19, 169, 114, 0.464);
+    margin-top: 30px;
+    margin-left: 30px;
+    
+    border: none;
+    padding: 8px 14px;
+    border-radius: 20px;
+    display: block;
+}
+.btn3 {
+    font-size: 14px;
+    font-weight: bold;
+    color:rgb(216, 216, 243) ;
+    background-color:rgb(99, 99, 225);
+    margin-top: 30px;
+    margin-left: 30px;
+    border: 3px solid black;
+    padding: 8px 30px;
+    box-shadow: 5px 5px  black;
+}
